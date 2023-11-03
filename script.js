@@ -6,7 +6,7 @@ var screen = {
     halfWidth: 150,
     height: 200,
     halfHeight: 100,
-    windowScale: 0.3
+    windowScale: 0.3,
 };
 
 var map = {
